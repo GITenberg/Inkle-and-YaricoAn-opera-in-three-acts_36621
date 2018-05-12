@@ -1,0 +1,48 @@
+_repo: Inkle-and-YaricoAn-opera-in-three-acts_36621
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Inchbald, Mrs.
+    alias: Inchbald, Elizabeth Simpson
+    birthdate: 1753
+    deathdate: 1821
+    gutenberg_agent_id: '1305'
+    url: http://www.gutenberg.org/2009/agents/1305
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colman, George
+    aliases:
+    - Coleman, George
+    - Colman, George, the younger
+    - Griffinhoof, Arthur
+    birthdate: 1762
+    deathdate: 1836
+    gutenberg_agent_id: '31335'
+    url: http://www.gutenberg.org/2009/agents/31335
+    wikipedia: http://en.wikipedia.org/wiki/George_Colman_the_Younger
+description: ''
+gutenberg_issued: '2011-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indian women -- Drama'
+- !lcsh 'British -- West Indies -- Drama'
+- !lcsh 'Shipwreck survival -- Drama'
+- !lcc 'ML'
+- !lcsh 'Carib Indians -- Drama'
+- !lcsh 'Inkle, Thomas -- Drama'
+- !lcsh 'Indians of the West Indies -- Drama'
+- !lcsh 'Yarico (Fictitious character) -- Drama'
+- !lcsh 'West Indies -- Drama'
+- !lcc 'PR'
+title: 'Inkle and Yarico: An opera, in three acts'
+url: http://www.gutenberg.org/ebooks/36621
